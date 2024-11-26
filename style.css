@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -12,6 +12,7 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
+    font-family: 'Merriweather', serif; /* For more elegant header text */
 }
 
 nav {
@@ -35,6 +36,7 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    font-weight: 500; /* Slightly bold for better visibility */
 }
 
 nav ul li a:hover {
@@ -48,12 +50,18 @@ section {
     background: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 
 h2 {
     color: #004080;
     border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
+    font-family: 'Merriweather', serif; /* Elegant font for section titles */
+}
+
+h3 {
+    font-family: 'Merriweather', serif; /* Same for sub-headings */
 }
 
 .notes {
@@ -68,6 +76,7 @@ h2 {
 .notes a {
     text-decoration: none;
     color: #004080;
+    font-weight: 500;
 }
 
 .notes a:hover {
@@ -86,4 +95,5 @@ footer {
     background: #333;
     color: #fff;
     margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
 }
