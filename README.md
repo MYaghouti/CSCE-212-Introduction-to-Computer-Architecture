@@ -11,9 +11,13 @@ This course introduces core topics in computer architecture, based on the textbo
 
 
 Instructor:    Mehdi Yaghouti
+
 Contact info:
+
 Email:         Yaghouti@mailbox.sc.edu
+
 Office Number: Room 2205, Innovation Center Building
+
 Office hours:  Fridays 9:00am - 2:00pm
 
    
