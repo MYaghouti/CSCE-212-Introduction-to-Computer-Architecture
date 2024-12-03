@@ -1,4 +1,4 @@
-CSCE 212 Introduction to computer architecture
+CSCE 212 Introduction to Computer Architecture
 
 This course introduces core topics in computer architecture, based on the textbook Digital Design and Computer Architecture (RISC-V Edition) by Sarah L. Harris and David Harris.
 
