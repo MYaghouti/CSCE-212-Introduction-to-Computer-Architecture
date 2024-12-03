@@ -5,7 +5,7 @@ This course introduces core topics in computer architecture, based on the textbo
 - Review of Digital Circuit Design: Combinational and Sequential Logic Circuits                                                      (Chapters 2 and 3)
 - Computer Components: Introduction to Computer Arithmetic and ALU Circuits, Memory Organization, Memory Types, Memory Addressing    (Chapter 5)
 - Assembly Programming and Architecture: Instruction Sets and Operand Types, Addressing Modes, Programming structures in Assembly    (Chapter 6 - Part I)
-- Function Calls, Machine Language, Data Representation                                                                              (Chapter 6 - Part II)
+- Function Calls, Machine Language                                                                                                   (Chapter 6 - Part II)
 - Computer Microarchitecture: CPU organaization, Single-Cycle CPU, Multi-Cycle CPU, CPU Performance Analysis                         (Chapter 7)
 
 
